@@ -1,0 +1,2 @@
+# AI-ML
+Artificial Intelligence and Machine learning [course studied in SEM_V] . Experiments done during the Lab session include various python libraries used for ML ,pre-processing techniques,feature encoding schemes ,feature selection techniques,PCA as feature reduction technique. Simple Linear Regression  ,Polynomial Linear Regression ,KNN classification,Naïve Bayes,Decision Trees for classification problems.
